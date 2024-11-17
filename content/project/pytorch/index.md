@@ -1,13 +1,13 @@
 ---
-title: PyTorch
+title: Portfolio
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+external_link: https://github.com/mashfiqmahi/Portfolio
+# tags:
+#   - Hugo
+#   - Wowchemy
+#   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+A simple portfolio.
 
 <!--more-->

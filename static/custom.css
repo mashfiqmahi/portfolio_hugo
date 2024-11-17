@@ -1,0 +1,13 @@
+.avatar {
+    border-radius: 10%;
+    transform: rotate(90deg); /* Apply rotation */
+}
+
+
+/* .avatar-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+     /* Corrects rotation */
+    /* Try setting initial rotation to normal */
+
